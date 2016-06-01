@@ -18,6 +18,7 @@ namespace ExportEpubToFolder
             try
             {
                 string filename = "";
+                string filename1 = "";
                 DatabaseConnection objD = new DatabaseConnection();
                 string fromemail = ConfigurationManager.AppSettings["fromemail"];
                 string exceptionsubject = ConfigurationManager.AppSettings["exceptionsubject"];

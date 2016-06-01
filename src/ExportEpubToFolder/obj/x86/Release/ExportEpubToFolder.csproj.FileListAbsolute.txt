@@ -10,3 +10,9 @@ D:\Epub\EP_ePub_Out\ExportEpubToFolder\bin\Release\ExportEpubToFolder.exe
 D:\Epub\EP_ePub_Out\ExportEpubToFolder\bin\Release\ExportEpubToFolder.pdb
 D:\Epub\EP_ePub_Out\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.exe
 D:\Epub\EP_ePub_Out\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.pdb
+C:\Users\rajg01\Desktop\DemoRepo\TestJenkins\DemoRepo\src\ExportEpubToFolder\bin\Release\ExportEpubToFolder.exe.config
+C:\Users\rajg01\Desktop\DemoRepo\TestJenkins\DemoRepo\src\ExportEpubToFolder\bin\Release\ExportEpubToFolder.exe
+C:\Users\rajg01\Desktop\DemoRepo\TestJenkins\DemoRepo\src\ExportEpubToFolder\bin\Release\ExportEpubToFolder.pdb
+C:\Users\rajg01\Desktop\DemoRepo\TestJenkins\DemoRepo\src\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.csprojResolveAssemblyReference.cache
+C:\Users\rajg01\Desktop\DemoRepo\TestJenkins\DemoRepo\src\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.exe
+C:\Users\rajg01\Desktop\DemoRepo\TestJenkins\DemoRepo\src\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.pdb
