@@ -1,0 +1,47 @@
+
+
+SELECT * FROM newdbcrest.jobsheetinfo WHERE jobid='430060847';
+
+SELECT * FROM dbproduction.tbljobmaster WHERE jobid='440005631';
+
+SELECT * FROM dbproduction.tbljobrevisionmaster WHERE prodid='507885';
+
+SELECT * FROM newdbcrest.tlbworkflowmaster_rev_store WHERE jobid='440047169 ';
+
+SELECT * FROM dbproduction.tbldepartment t;
+
+SELECT * FROM newdbcrest.tlbworkflowmaster t;
+
+SELECT * FROM dbproduction.tlboprevisionmaster WHERE prodid='286408';
+
+SELECT * FROM dbproduction.tblwf_dept_info WHERE wfid='225' AND bFileName = 'true'; AND UploadFolList ='ProjectBrief';
+
+SELECT * FROM dbproduction.tlbfileupdate_master t;
+
+SELECT * FROM newdbcrest.tlbproductioninfo t;
+
+SELECT * FROM newdbcrest.tlbdiscreteobjecttechnicalinfo t;
+
+SELECT * FROM newdbcrest.tlbcompoundobjecttechnicalinfo t;
+
+SELECT * FROM newdbjobticket.tlbjobticketmaster WHERE doi ='';
+
+SELECT * FROM newdbcrest.jobprocessinfodetail where bookid_journalid ='318635_1_De' and approvedRejectedFlag='R';
+
+SELECT * FROM newdbcrest.productiontarget p;
+
+SELECT * FROM newdbcrest.rejectionreport where department ='';
+
+SELECT * FROM dbproduction.tbloperator t;
+
+select * from newdbcrest.tblintakeanalysis;
+
+SELECT * FROM newdbcrest.tlbworkflowmaster_rev where workflowid =186;
+
+SELECT * FROM `dbproduction`.`tblwf_dept_info` t;
+
+SELECT count(*) FROM newdbcrest.tlbarticlechapterpartsubpart where parentid ='299598_1_De';
+
+SELECT [EmpName]
+      ,CONVERT(DatetIme,DOb,107) AS DOB
+  FROM [AscentEmpower].[dbo].[Employee] where CostCentre ='27-MS Technology' and status =0 and LEN(LeftDate)=0 and CONVERT(DateTime,DOb,105) like 'Aug%';
