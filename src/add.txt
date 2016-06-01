@@ -1,0 +1,5 @@
+https://Seinpuma00020.springer-sbm.com/svn/Technology/trunk/Trace/TraceServices/trunk/EpubCreation_schedulers/AutoPackageCreationBWF_Epub
+
+
+For Debug.BNN error go to envireonment variables
+Delete Platform value= BNB
