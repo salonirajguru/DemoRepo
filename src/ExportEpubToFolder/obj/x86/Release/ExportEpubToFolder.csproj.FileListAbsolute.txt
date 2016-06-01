@@ -1,0 +1,12 @@
+D:\SVN_SERVICE\ExportEpubToFolder\ExportEpubToFolder\bin\Release\ExportEpubToFolder.exe.config
+D:\SVN_SERVICE\ExportEpubToFolder\ExportEpubToFolder\bin\Release\ExportEpubToFolder.exe
+D:\SVN_SERVICE\ExportEpubToFolder\ExportEpubToFolder\bin\Release\ExportEpubToFolder.pdb
+D:\SVN_SERVICE\ExportEpubToFolder\ExportEpubToFolder\bin\Release\Crest.dll
+D:\SVN_SERVICE\ExportEpubToFolder\ExportEpubToFolder\bin\Release\MySql.Data.dll
+D:\SVN_SERVICE\ExportEpubToFolder\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.exe
+D:\SVN_SERVICE\ExportEpubToFolder\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.pdb
+D:\Epub\EP_ePub_Out\ExportEpubToFolder\bin\Release\ExportEpubToFolder.exe.config
+D:\Epub\EP_ePub_Out\ExportEpubToFolder\bin\Release\ExportEpubToFolder.exe
+D:\Epub\EP_ePub_Out\ExportEpubToFolder\bin\Release\ExportEpubToFolder.pdb
+D:\Epub\EP_ePub_Out\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.exe
+D:\Epub\EP_ePub_Out\ExportEpubToFolder\obj\x86\Release\ExportEpubToFolder.pdb
